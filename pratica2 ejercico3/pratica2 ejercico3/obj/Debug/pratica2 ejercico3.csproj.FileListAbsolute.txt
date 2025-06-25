@@ -1,0 +1,5 @@
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\pratica2 ejercico3\pratica2 ejercico3\obj\Debug\pratica2 ejercico3.csproj.AssemblyReference.cache
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\pratica2 ejercico3\pratica2 ejercico3\obj\Debug\pratica2_ejercico3.Form1.resources
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\pratica2 ejercico3\pratica2 ejercico3\obj\Debug\pratica2_ejercico3.Properties.Resources.resources
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\pratica2 ejercico3\pratica2 ejercico3\obj\Debug\pratica2 ejercico3.csproj.GenerateResource.cache
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\pratica2 ejercico3\pratica2 ejercico3\obj\Debug\pratica2 ejercico3.csproj.CoreCompileInputs.cache
