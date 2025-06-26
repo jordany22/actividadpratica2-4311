@@ -1,0 +1,10 @@
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\bin\Debug\pratica2ejercicio8.exe.config
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\bin\Debug\pratica2ejercicio8.exe
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\bin\Debug\pratica2ejercicio8.pdb
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\obj\Debug\pratica2ejercicio8.csproj.AssemblyReference.cache
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\obj\Debug\pratica2ejercicio8.Form1.resources
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\obj\Debug\pratica2ejercicio8.Properties.Resources.resources
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\obj\Debug\pratica2ejercicio8.csproj.GenerateResource.cache
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\obj\Debug\pratica2ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\obj\Debug\pratica2ejercicio8.exe
+C:\Users\jordany\Documents\GitHub\actividadpratica2-4311\ejercicio8\pratica2ejercicio8\obj\Debug\pratica2ejercicio8.pdb
